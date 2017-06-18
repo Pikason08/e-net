@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">e-net</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+
+    <string name="pref_key_setting">key_setting</string>
+
+    <string name="tab_arrivals">新着情報</string>
+    <string name="tab_paddy">水田</string>
+    <string name="tab_weather">天気</string>
+    <string name="tab_work_log">作業日誌</string>
+    <string name="tab_crawl_log">見回り記録</string>
+    
+    <string name="action_setting">設定</string>
+    
+    <string name="pref_in_general">全般</string>
+    <string name="pref_title_notification">通知</string>
+    <string name="pref_summary_notification">通知設定を管理します</string>
 </resources>
