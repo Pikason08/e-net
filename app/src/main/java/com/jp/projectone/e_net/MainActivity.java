@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     private View.OnClickListener clickFloat = new View.OnClickListener() {
         @Override
         public void onClick(View v) {
-
+            
         }
     };
 
