@@ -18,4 +18,7 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="TabStyle" parent="Widget.Design.TabLayout">
+        <item name="tabSelectedTextColor">@color/white</item>
+    </style>
 </resources>
