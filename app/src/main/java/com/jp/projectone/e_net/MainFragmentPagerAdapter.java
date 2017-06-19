@@ -41,13 +41,13 @@ public class MainFragmentPagerAdapter extends FragmentPagerAdapter{
             case 0:
                 return "Arrival";
             case 1:
-                return "paddy";
+                return "水田情報";
             case 2:
-                return "weather";
+                return "天気情報";
             case 3:
-                return "crawl record";
+                return "見回り記録";
             case 4:
-                return "work record";
+                return "作業記録";
         }
         return null;
     }
